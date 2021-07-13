@@ -1,5 +1,7 @@
 Link de Vimeo: https://vimeo.com/510792531/20d64d4a98
 
+Otro video de Diego: https://drive.google.com/file/d/1WJwrpz5o-iIyFKKixMotsxfU_xAEw7UB/view
+
 ``` js 
 let sequelize =
   process.env.NODE_ENV === "production"
